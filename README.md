@@ -1,3 +1,4 @@
+> NOTE: A new version of this app is in progress on the v2 branch. 
 # falling-stars-game
 
 An in browser puzzle game along with the solver of the game. Uses React/Javascript.
