@@ -1,9 +1,8 @@
-import { Box, CssBaseline, Grid, Paper } from '@mui/material'
+import { CssBaseline } from '@mui/material'
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
 import FallingStars from './FallingStars'
-import { createTheme, ThemeProvider, styled } from '@mui/material/styles';
+import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 const darkTheme = createTheme({ palette: { mode: 'dark' } });
 
